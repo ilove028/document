@@ -1,0 +1,106 @@
+Test
+    https://github.com/GoogleChrome/puppeteer ()
+    supertest
+    loadtest
+GraphQL
+    http://dev.apollodata.com/tools/graphql-server/index.html http://dev.apollodata.com/
+MVVM
+    https://ecomfe.github.io/san/ (百度前端MVVM框架)
+    http://react-china.org/t/react-redux-immutablejs/9948 (React Redux Immutable实践)
+    http://react-redux.herokuapp.com/ (国外React工程实例)
+    http://cnodejs.org/topic/5a3671aad1536726354b7e65 (React 同构方案)
+    http://hubcarl.github.io/easywebpack/ (React 同构方案)
+JavaScript
+    http://blog.csdn.net/caolixiang/article/details/50511010 http://www.jianshu.com/p/0aad25e2e1be (网上RXJS教程)
+    https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going (你不知道的JS)
+    http://www.ecma-international.org/ecma-262/6.0/#sec-jobs-and-job-queues (ES6 标准)
+服务搭建
+    https://cnodejs.org/topic/5a0d3c61791a31556f6ed9e1 (用node从零搭建一套微服务系统)
+自动部署
+    https://github.com/shipitjs/shipit-deploy
+网络安全
+    http://yunlaiwu.github.io/blog/2016/12/18/HTTPS%E5%AE%89%E5%85%A8%E6%80%A7%E5%8E%9F%E7%90%86%E4%BB%A5%E5%8F%8A%E5%85%B6%E5%AF%B9%E5%89%8D%E7%AB%AF%E7%9A%84%E5%BD%B1%E5%93%8D/  (https)
+Query Language
+    http://graphql.cn/ (中文GraphQL) 
+    https://github.com/facebook/graphql/blob/master/README.md (graphqljs )
+    http://facebook.github.io/graphql/October2016/ (官方版本)
+    https://www.apollographql.com/ (apollo) 
+    https://facebook.github.io/relay/ (relay)
+    https://github.com/chentsulin/awesome-graphql#lib-sql (awesome-graphql)
+    https://apis.guru/graphql-voyager/ (这是一款将任意 GraphQL API 表示为交互式图形的工具，可以直观地浏览 GraphQL API 。在设计或讨论数据模型时，非常有用。)
+    https://www.howtographql.com/ (GraphQL 全栈学习)
+    https://github.com/mugli/learning-graphql (GraphQl.js 学习网站)
+前端技术总览网站
+    https://docschina.org/
+Koa2
+    http://cnodejs.org/topic/58ac640e7872ea0864fedf90 (一个自我总结的koa2学习)
+Security
+    http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html (OAuth 2.0 讲解)
+    http://blog.csdn.net/seccloud/article/details/8192707 (OAuth 2.0 讲解对于授权码类型讲解仔细)
+    http://blog.csdn.net/xy010902100449/article/details/52079116 (密码安全)
+    https://github.com/brix/crypto-js (Crypto 纯JS实现)
+    https://jwt.io/introduction/ (JWT)
+    https://cnodejs.org/topic/5a502debafa0a121784a89c3 (Koa2项目安全加固建议)
+Css框架
+    https://bulma.io/
+    http://getbootstrap.com/
+js开发跨平台桌面应用
+    https://electronjs.org/
+TCP/IP
+    http://www.52im.net/topic-tcpipvol1.html (中文在线 TCP/IP详解)
+    https://www.gitbook.com/book/ye11ow/http2-explained/details (http2 详解)
+    http://pcvr.nl/tcpip/introduc.htm#1_16 (TCP/IP 原文)
+RBAC
+    http://www.doc88.com/p-2327625056548.html
+Right Expression
+    https://www.w3.org/TR/odrl-model/ (2.2.3)
+HTTP 
+    https://tools.ietf.org/html/rfc2616 (RFC文档)
+HTTP Test
+    https://www.npmjs.com/package/supertest
+RFC文档
+    http://www.rfcreader.com
+Node
+    https://github.com/yjhjstz/deep-into-node (node源码分析)
+    http://cnodejs.org/topic/5a012ffe84ed7ceb219ea7a9
+    https://github.com/nswbmw/node-in-debugging (node调试)
+    https://cnodejs.org/topic/5a9108d78d6e16e56bb80882#5a98d9a2ce1c90bc44c445af (node Event loop 源码分析)
+    https://cnodejs.org/topic/5ab3166be7b166bb7b9eccf7 (狼叔：如何正确的学习Node.js)
+EGG
+    http://cnodejs.org/topic/5a92ebb671327bb413bbfe38 (EGG源码)
+Animation
+    https://github.com/juliangarnier/anime
+    https://github.com/chenglou/react-motion
+Validation
+    https://github.com/ianstormtaylor/superstruct (校验框架)
+    
+BlockChain
+    https://cnodejs.org/topic/5a9900882ffb8598445aea7b (以太坊区块链APP)
+    http://bitcoin-on-nodejs.ebookchain.org/ (Nodejs开发加密货币)
+	https://cnodejs.org/topic/5acf6ea3ba60fcc66b7b804d 
+React
+    https://github.com/reactjs/reselect (数据缓存)
+EXCEL
+    https://github.com/SheetJS/js-xlsx
+    
+JS
+    https://javascript.info/ (JS DOM Animation 介绍)
+BlockChain
+    https://cnodejs.org/topic/5abb32e20b13e3ad6954cf07
+Electron
+    https://github.com/IceEnd/Yosoro (示例)
+Block Chain 
+	https://cnodejs.org/topic/5acf6ea3ba60fcc66b7b804d ()
+    
+1. 狄拉克的量子力学、
+2. 爱因斯坦的论文集、
+3. 曼德布罗特的分形论、
+4. 鲍林的化学键、
+5. 罗素和怀特海德的数学基础、
+6. 西里尔·史密斯的结构研究、
+7. 冯诺意曼和摩根斯坦的博弈论、
+8. 维纳的控制论、
+9. 伍德沃和霍夫曼的轨道对称性、
+10. 爱因斯坦的相对论、
+11.费曼的量子电动力学
+12.高纳德的计算机程序设计的艺术

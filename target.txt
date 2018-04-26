@@ -1,0 +1,9 @@
+1: 深入学习 HTML5 包括w3c文档
+2: 深入学习CSS 包括w3c文档
+3: 深入学习JS
+3: 深入学习 TCP/IP HTTP HTTP2
+3: 加入一个开源项目 https://github.com/vueClub/milk-vue 学习一个前端框架 element-ui VUE React
+4: 再次学习git
+5: 深入学习Egg源码
+6:	学习mongodb redis 了解一种消息中间件
+7: 学习Electron
