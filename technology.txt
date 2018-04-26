@@ -93,6 +93,8 @@ Block Chain
 	https://cnodejs.org/topic/5acf6ea3ba60fcc66b7b804d ()
 人脸识别
 	https://cnodejs.org/topic/5ae12f367b0e8dc508cca7c0
+KLine
+	https://www.tradingview.com/chart/BTCUSD/PGjb68LZ-Grab-the-Champagne-Volatility-is-Back-in-Bitcoin/
     
 1. 狄拉克的量子力学、
 2. 爱因斯坦的论文集、
