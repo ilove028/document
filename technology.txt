@@ -98,6 +98,8 @@ KLine
 	https://legacy.gitbook.com/book/zlq4863947/tradingview/details
 	https://b.aitrade.ga/books/tradingview/book/JS-Api.html (国内翻译TradingView)
 	https://github.com/ganeshjung/tv/wiki (英文镜像)
+开源框架
+	https://github.com/withspectrum/spectrum (很多技术栈)
     
 1. 狄拉克的量子力学、
 2. 爱因斯坦的论文集、
