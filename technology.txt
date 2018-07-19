@@ -104,6 +104,8 @@ KLine
 	https://blog.csdn.net/young_gao/article/details/80691800 (同上)
 开源框架
 	https://github.com/withspectrum/spectrum (很多技术栈)
+AI
+	https://js.tensorflow.org/ (JS Tensorflow)
     
 1. 狄拉克的量子力学、
 2. 爱因斯坦的论文集、
