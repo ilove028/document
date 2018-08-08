@@ -35,6 +35,7 @@ Query Language
 Koa2
     http://cnodejs.org/topic/58ac640e7872ea0864fedf90 (一个自我总结的koa2学习)
 	https://github.com/chenshenhai/koajs-design-note (Koa 学习笔记)
+	https://github.com/wangtianlun/koa-design (KOA2源码分析)
 Security
     http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html (OAuth 2.0 讲解)
     http://blog.csdn.net/seccloud/article/details/8192707 (OAuth 2.0 讲解对于授权码类型讲解仔细)
@@ -82,6 +83,9 @@ BlockChain
 React
     https://github.com/reactjs/reselect (数据缓存)
     https://github.com/JasonBoy/koa-web-kit (Koa SSR)
+Vue 
+	https://github.com/eugeneCN/vue-ssr-template (SSR)
+	http://www.php.cn/js-tutorial-390961.html (SSR)
 EXCEL
     https://github.com/SheetJS/js-xlsx
     
