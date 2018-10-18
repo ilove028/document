@@ -72,6 +72,7 @@ Node
     https://cnodejs.org/topic/5ab3166be7b166bb7b9eccf7 (狼叔：如何正确的学习Node.js)
 	https://cnodejs.org/topic/5ae935101b02288048bd0b97 (Node.js实战：使用Egg.js + Vue.js + Docker构建渐进式、可持续集成与交付应用)
 	https://cnodejs.org/topic/5a9661ff71327bb413bbff5b (Node 调试)
+	https://cnodejs.org/topic/5b2f02a757137f22415c4e90 (狼叔的《更了不起的Node.js》)
 EGG
     http://cnodejs.org/topic/5a92ebb671327bb413bbfe38 (EGG源码)
 Animation
@@ -92,6 +93,7 @@ Vue
 	http://www.php.cn/js-tutorial-390961.html (SSR)
 	http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/ (Vue源码解析)
 	http://hcysun.me/vue-design/art/ (Vue源码解析)
+	https://www.vue-js.com/topic/5b9698053599bf624c93fda2 (VUE实战)
 EXCEL
     https://github.com/SheetJS/js-xlsx
     
