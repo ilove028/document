@@ -75,6 +75,7 @@ Node
 	https://cnodejs.org/topic/5b2f02a757137f22415c4e90 (狼叔的《更了不起的Node.js》)
 EGG
     http://cnodejs.org/topic/5a92ebb671327bb413bbfe38 (EGG源码)
+	https://cnodejs.org/topic/5bc933129545eaf107b9cc84 (EGG源码)
 Animation
     https://github.com/juliangarnier/anime
     https://github.com/chenglou/react-motion
