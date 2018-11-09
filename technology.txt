@@ -117,6 +117,7 @@ KLine
 	https://github.com/ganeshjung/tv/wiki (英文镜像)
 	https://blog.csdn.net/q506417225/article/details/80118838 (个人TradingView博客)
 	https://blog.csdn.net/young_gao/article/details/80691800 (同上)
+	https://blog.csdn.net/w116858389/article/details/81109726 (同上)
 开源框架
 	https://github.com/withspectrum/spectrum (很多技术栈)
 AI
