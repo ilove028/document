@@ -76,6 +76,8 @@ Node
 EGG
     http://cnodejs.org/topic/5a92ebb671327bb413bbfe38 (EGG源码)
 	https://cnodejs.org/topic/5bc933129545eaf107b9cc84 (EGG源码)
+Nest
+	https://cnodejs.org/topic/5becfd09be1b120abac5992b (nest脚手架)
 Animation
     https://github.com/juliangarnier/anime
     https://github.com/chenglou/react-motion
