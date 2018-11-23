@@ -73,6 +73,7 @@ Node
 	https://cnodejs.org/topic/5ae935101b02288048bd0b97 (Node.js实战：使用Egg.js + Vue.js + Docker构建渐进式、可持续集成与交付应用)
 	https://cnodejs.org/topic/5a9661ff71327bb413bbff5b (Node 调试)
 	https://cnodejs.org/topic/5b2f02a757137f22415c4e90 (狼叔的《更了不起的Node.js》)
+	https://cnodejs.org/topic/5bf665bce6481c5709f5e453 (NodeJs 性能优化)
 EGG
     http://cnodejs.org/topic/5a92ebb671327bb413bbfe38 (EGG源码)
 	https://cnodejs.org/topic/5bc933129545eaf107b9cc84 (EGG源码)
