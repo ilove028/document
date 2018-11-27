@@ -125,6 +125,7 @@ KLine
 	https://github.com/withspectrum/spectrum (很多技术栈)
 AI
 	https://js.tensorflow.org/ (JS Tensorflow)
+	https://cnodejs.org/topic/5bfb9a7bd6104a4f803a197b (Tensorflow博客)
 
 抓包工具
 	Fiddler
@@ -133,6 +134,12 @@ AI
 打包工具
 	https://parceljs.org/
 	http://webpack.wuhaolin.cn/
+LoopBack
+	https://loopback.io
+Deno
+	https://github.com/denoland/deno
+Skeleton Screen
+	https://github.com/Jocs/jocs.github.io/issues/22
     
 1. 狄拉克的量子力学、
 2. 爱因斯坦的论文集、
