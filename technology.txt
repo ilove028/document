@@ -17,6 +17,7 @@ JavaScript
     http://blog.csdn.net/caolixiang/article/details/50511010 http://www.jianshu.com/p/0aad25e2e1be (网上RXJS教程)
     https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going (你不知道的JS)
     http://www.ecma-international.org/ecma-262/6.0/#sec-jobs-and-job-queues (ES6 标准)
+	https://cnodejs.org/topic/5c46759e3b948a2b4ab70483 (javascript工作原理)
 服务搭建
     https://cnodejs.org/topic/5a0d3c61791a31556f6ed9e1 (用node从零搭建一套微服务系统)
 自动部署
@@ -144,6 +145,8 @@ Deno
 	https://github.com/denoland/deno
 Skeleton Screen
 	https://github.com/Jocs/jocs.github.io/issues/22
+TypeScript
+	https://nestjs.com/ (TS Framework)
     
 1. 狄拉克的量子力学、
 2. 爱因斯坦的论文集、
