@@ -37,6 +37,7 @@ Query Language
 前端技术总览网站
     https://docschina.org/
 	https://blog.csdn.net/weixin_39483925/article/details/82109548 (前端总结)
+	https://cnodejs.org/topic/5c458c396955112b99437594 (2019前端技能树)
 Koa2
     http://cnodejs.org/topic/58ac640e7872ea0864fedf90 (一个自我总结的koa2学习)
 	https://github.com/chenshenhai/koajs-design-note (Koa 学习笔记)
@@ -105,7 +106,10 @@ Vue
 	https://www.cnblogs.com/tiedaweishao/p/8933153.html （源码解析)
 EXCEL
     https://github.com/SheetJS/js-xlsx
-    
+PDF
+	https://www.npmjs.com/package/jspdf
+	https://www.jianshu.com/p/e50e85793bca
+    https://mozilla.github.io/pdf.js/
 JS
     https://javascript.info/ (JS DOM Animation 介绍)
 	https://www.liayal.com/article/5b07d8dc4b90272bebb17a4b (You dont known JS)
