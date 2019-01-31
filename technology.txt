@@ -110,6 +110,8 @@ PDF
 	https://www.npmjs.com/package/jspdf
 	https://www.jianshu.com/p/e50e85793bca
     https://mozilla.github.io/pdf.js/
+	https://www.cnblogs.com/liaojie970/p/7132475.html
+	https://howtodoinjava.com/apache-commons/read-generate-pdf-java-itext/
 JS
     https://javascript.info/ (JS DOM Animation 介绍)
 	https://www.liayal.com/article/5b07d8dc4b90272bebb17a4b (You dont known JS)
@@ -151,6 +153,8 @@ Skeleton Screen
 	https://github.com/Jocs/jocs.github.io/issues/22
 TypeScript
 	https://nestjs.com/ (TS Framework)
+OS
+	https://github.com/yodaos-project/yodaos (This is a modern operating system for next generation interactive device, and it embraces Web community, uses JavaScript as the application language.)
     
 1. 狄拉克的量子力学、
 2. 爱因斯坦的论文集、
