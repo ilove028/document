@@ -1,4 +1,7 @@
-﻿高质量前端资源
+﻿W3C规范
+	https://github.com/whatwg
+
+高质量前端资源
 	https://github.com/ihtml5/50weekly
 
 Test
@@ -18,6 +21,8 @@ JavaScript
     https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going (你不知道的JS)
     http://www.ecma-international.org/ecma-262/6.0/#sec-jobs-and-job-queues (ES6 标准)
 	https://cnodejs.org/topic/5c46759e3b948a2b4ab70483 (javascript工作原理)
+	https://segmentfault.com/a/1190000017992671 (javascript如何工作)
+	https://github.com/dt-fe/weekly (JS精度)
 服务搭建
     https://cnodejs.org/topic/5a0d3c61791a31556f6ed9e1 (用node从零搭建一套微服务系统)
 自动部署
@@ -38,6 +43,10 @@ Query Language
     https://docschina.org/
 	https://blog.csdn.net/weixin_39483925/article/details/82109548 (前端总结)
 	https://cnodejs.org/topic/5c458c396955112b99437594 (2019前端技能树)
+	https://www.quirksmode.org/mobile/viewports.html (关于viewport)
+	https://www.quirksmode.org/mobile/viewports2.html
+	https://www.quirksmode.org/mobile/metaviewport/
+	https://github.com/ruyuejun/note (別人的)
 Koa2
     http://cnodejs.org/topic/58ac640e7872ea0864fedf90 (一个自我总结的koa2学习)
 	https://github.com/chenshenhai/koajs-design-note (Koa 学习笔记)
@@ -59,6 +68,7 @@ TCP/IP
     http://www.52im.net/topic-tcpipvol1.html (中文在线 TCP/IP详解)
     https://www.gitbook.com/book/ye11ow/http2-explained/details (http2 详解)
     http://pcvr.nl/tcpip/introduc.htm#1_16 (TCP/IP 原文)
+	https://cnodejs.org/topic/5c20b40476c4964062a1d3f1 (我们来说一说TCP神奇的40ms )
 RBAC
     http://www.doc88.com/p-2327625056548.html
 Right Expression
@@ -82,6 +92,8 @@ Node
 EGG
     http://cnodejs.org/topic/5a92ebb671327bb413bbfe38 (EGG源码)
 	https://cnodejs.org/topic/5bc933129545eaf107b9cc84 (EGG源码)
+	https://github.com/midwayjs/midway/ (EGG发展的IOC框架)
+	https://github.com/lzq920/nuxt-eggjs-ssr-template (EGG 搭配 NUXT)
 Nest
 	https://cnodejs.org/topic/5becfd09be1b120abac5992b (nest脚手架)
 Animation
@@ -104,6 +116,7 @@ Vue
 	http://hcysun.me/vue-design/art/ (Vue源码解析)
 	https://www.vue-js.com/topic/5b9698053599bf624c93fda2 (VUE实战)
 	https://www.cnblogs.com/tiedaweishao/p/8933153.html （源码解析)
+	https://segmentfault.com/a/1190000009721209 (源码解析)
 EXCEL
     https://github.com/SheetJS/js-xlsx
 PDF
@@ -153,8 +166,12 @@ Skeleton Screen
 	https://github.com/Jocs/jocs.github.io/issues/22
 TypeScript
 	https://nestjs.com/ (TS Framework)
+	https://github.com/nest-cloud (TS 微服务框架)
 OS
 	https://github.com/yodaos-project/yodaos (This is a modern operating system for next generation interactive device, and it embraces Web community, uses JavaScript as the application language.)
+IOT
+	https://cnodejs.org/topic/5c5fd8d205cc322e7b137a2f
+	https://www.scaugreen.cn/posts/20945/
     
 1. 狄拉克的量子力学、
 2. 爱因斯坦的论文集、
