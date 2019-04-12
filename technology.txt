@@ -3,6 +3,7 @@
 
 高质量前端资源
 	https://github.com/ihtml5/50weekly
+	https://github.com/nefe/You-Dont-Need-jQuery#readme
 
 Test
     https://github.com/GoogleChrome/puppeteer ()
@@ -109,6 +110,8 @@ BlockChain
 React
     https://github.com/reactjs/reselect (数据缓存)
     https://github.com/JasonBoy/koa-web-kit (Koa SSR)
+	https://www.jianshu.com/p/8af5be333b5f (源码分析)
+	https://juejin.im/post/5c97599fe51d450f357634fc (preact)
 Vue 
 	https://github.com/eugeneCN/vue-ssr-template (SSR)
 	http://www.php.cn/js-tutorial-390961.html (SSR)
