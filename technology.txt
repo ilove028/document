@@ -112,6 +112,7 @@ React
     https://github.com/JasonBoy/koa-web-kit (Koa SSR)
 	https://www.jianshu.com/p/8af5be333b5f (源码分析)
 	https://juejin.im/post/5c97599fe51d450f357634fc (preact)
+	https://juejin.im/post/5a84682ef265da4e83266cc4 (源码)
 Vue 
 	https://github.com/eugeneCN/vue-ssr-template (SSR)
 	http://www.php.cn/js-tutorial-390961.html (SSR)
@@ -120,6 +121,7 @@ Vue
 	https://www.vue-js.com/topic/5b9698053599bf624c93fda2 (VUE实战)
 	https://www.cnblogs.com/tiedaweishao/p/8933153.html （源码解析)
 	https://segmentfault.com/a/1190000009721209 (源码解析)
+	https://ustbhuangyi.github.io/vue-analysis/prepare/ (源码)
 EXCEL
     https://github.com/SheetJS/js-xlsx
 PDF
