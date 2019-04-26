@@ -113,6 +113,7 @@ React
 	https://www.jianshu.com/p/8af5be333b5f (源码分析)
 	https://juejin.im/post/5c97599fe51d450f357634fc (preact)
 	https://juejin.im/post/5a84682ef265da4e83266cc4 (源码)
+	http://react-china.org/t/react/29667 (源码)
 Vue 
 	https://github.com/eugeneCN/vue-ssr-template (SSR)
 	http://www.php.cn/js-tutorial-390961.html (SSR)
@@ -122,6 +123,9 @@ Vue
 	https://www.cnblogs.com/tiedaweishao/p/8933153.html （源码解析)
 	https://segmentfault.com/a/1190000009721209 (源码解析)
 	https://ustbhuangyi.github.io/vue-analysis/prepare/ (源码)
+Vue-Router
+	https://github.com/funfish/blog/issues/8 (源码)
+	https://juejin.im/post/5af108dc518825672565cf31#heading-5 (源码)
 EXCEL
     https://github.com/SheetJS/js-xlsx
 PDF
