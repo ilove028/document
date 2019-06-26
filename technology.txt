@@ -4,6 +4,7 @@
 	https://www.w3.org
 
 高质量前端资源
+	https://msdn.microsoft.com
 	https://github.com/ihtml5/50weekly
 	https://github.com/nefe/You-Dont-Need-jQuery#readme
 	https://alligator.io/css/ (一个前端全面学习网站)
@@ -68,6 +69,7 @@ Security
 Css框架
     https://bulma.io/
     http://getbootstrap.com/
+	https://github.com/zurb/foundation-sites
 js开发跨平台桌面应用
     https://electronjs.org/
 TCP/IP
