@@ -29,6 +29,7 @@ JavaScript
 	https://cnodejs.org/topic/5c46759e3b948a2b4ab70483 (javascript工作原理)
 	https://segmentfault.com/a/1190000017992671 (javascript如何工作)
 	https://github.com/dt-fe/weekly (JS精度)
+   https://blog.fundebug.com/tags/JavaScript%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA/ （JavaScript深入浅出）
 服务搭建
     https://cnodejs.org/topic/5a0d3c61791a31556f6ed9e1 (用node从零搭建一套微服务系统)
 自动部署
@@ -71,8 +72,8 @@ Css框架
     https://bulma.io/
     http://getbootstrap.com/
 	https://github.com/zurb/foundation-sites
-https://github.com/Sweet-KK/css-layout (CSS布局)
-https://www.zhangxinxu.com/wordpress/category/js/ (CSS个人博客)
+	https://github.com/Sweet-KK/css-layout (CSS布局)
+	https://www.zhangxinxu.com/wordpress/category/js/ (CSS个人博客)
 js开发跨平台桌面应用
     https://electronjs.org/
 TCP/IP
