@@ -108,6 +108,7 @@ EGG
 	https://github.com/lzq920/nuxt-eggjs-ssr-template (EGG 搭配 NUXT)
 Nest
 	https://cnodejs.org/topic/5becfd09be1b120abac5992b (nest脚手架)
+	https://github.com/chenkang084/easy-node-ioc (TS 简易IOC)
 Animation
     https://github.com/juliangarnier/anime
     https://github.com/chenglou/react-motion
