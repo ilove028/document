@@ -9,6 +9,7 @@
 	https://github.com/nefe/You-Dont-Need-jQuery#readme
 	https://alligator.io/css/ (一个前端全面学习网站)
 	https://cnodejs.org/topic/5cf4fcc41fe902120f31bbe3 (阿里前端月刊)
+	https://wangdoc.com/ (网页技术 HTML CSS JS)
 
 Test
     https://github.com/GoogleChrome/puppeteer ()
