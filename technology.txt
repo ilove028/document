@@ -23,6 +23,8 @@ MVVM
     http://react-redux.herokuapp.com/ (国外React工程实例)
     http://cnodejs.org/topic/5a3671aad1536726354b7e65 (React 同构方案)
     http://hubcarl.github.io/easywebpack/ (React 同构方案)
+Webcomponent
+	https://polymer-zh.cn/
 JavaScript
     http://blog.csdn.net/caolixiang/article/details/50511010 http://www.jianshu.com/p/0aad25e2e1be (网上RXJS教程)
     https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going (你不知道的JS)
