@@ -10,6 +10,7 @@
 	https://alligator.io/css/ (一个前端全面学习网站)
 	https://cnodejs.org/topic/5cf4fcc41fe902120f31bbe3 (阿里前端月刊)
 	https://wangdoc.com/ (网页技术 HTML CSS JS)
+	https://www.nodejs.red (Node技术栈 偏后端)
 
 Test
     https://github.com/GoogleChrome/puppeteer ()
@@ -117,7 +118,7 @@ Animation
     https://github.com/chenglou/react-motion
 Validation
     https://github.com/ianstormtaylor/superstruct (校验框架)
-    
+    https://github.com/any86/any-rule (正则表达式)
 BlockChain
     https://cnodejs.org/topic/5a9900882ffb8598445aea7b (以太坊区块链APP)
     http://bitcoin-on-nodejs.ebookchain.org/ (Nodejs开发加密货币)
