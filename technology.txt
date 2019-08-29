@@ -111,6 +111,7 @@ EGG
     http://cnodejs.org/topic/5a92ebb671327bb413bbfe38 (EGG源码)
 	https://cnodejs.org/topic/5bc933129545eaf107b9cc84 (EGG源码)
 	https://github.com/midwayjs/midway/ (EGG发展的IOC框架)
+	https://github.com/SunShinewyf/issue-blog/issues/31 （Egg-bin）
 	https://github.com/lzq920/nuxt-eggjs-ssr-template (EGG 搭配 NUXT)
 Nest
 	https://cnodejs.org/topic/5becfd09be1b120abac5992b (nest脚手架)
