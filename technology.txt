@@ -13,6 +13,7 @@
 	https://www.nodejs.red (Node技术栈 偏后端)
 	https://yuchengkai.cn/home/ (前端包含React源码)
 	https://single-spa.js.org （前端微服务）
+	https://cnodejs.org/topic/5d6697d3421846662d985894 (别人学习路径)
 Test
     https://github.com/GoogleChrome/puppeteer ()
     supertest
@@ -112,6 +113,8 @@ EGG
 	https://cnodejs.org/topic/5bc933129545eaf107b9cc84 (EGG源码)
 	https://github.com/midwayjs/midway/ (EGG发展的IOC框架)
 	https://github.com/SunShinewyf/issue-blog/issues/31 （Egg-bin）
+	https://blog.csdn.net/weixin_34080951/article/details/88604405 (Egg-bin)
+	https://blog.csdn.net/zdplife/article/details/83959884 (Egg-cluster)
 	https://github.com/lzq920/nuxt-eggjs-ssr-template (EGG 搭配 NUXT)
 Nest
 	https://cnodejs.org/topic/5becfd09be1b120abac5992b (nest脚手架)
