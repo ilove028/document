@@ -100,6 +100,7 @@ RFC文档
     http://www.rfcreader.com
 Node
     https://github.com/yjhjstz/deep-into-node (node源码分析)
+	https://yjhjstz.gitbooks.io/deep-into-node (node 源码)
     http://cnodejs.org/topic/5a012ffe84ed7ceb219ea7a9
     https://github.com/nswbmw/node-in-debugging (node调试)
     https://cnodejs.org/topic/5a9108d78d6e16e56bb80882#5a98d9a2ce1c90bc44c445af (node Event loop 源码分析)
