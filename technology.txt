@@ -16,6 +16,7 @@
 	https://cnodejs.org/topic/5d6697d3421846662d985894 (别人学习路径)
 	https://ptabletags-o9iap3bo3.now.sh/ （HTML 元素周期表）
 	https://www.nodejs.red (nodejs 技术栈)
+	https://exploringjs.com/ (JS详解书籍)
 Test
     https://github.com/GoogleChrome/puppeteer ()
     supertest
