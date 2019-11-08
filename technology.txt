@@ -198,7 +198,7 @@ AI
 	http://www.97yrbl.com/t-217.html (Web协议详解与抓包实战)
 打包工具
 	https://parceljs.org/
-	http://webpack.wuhaolin.cn/
+	https://webpack.wuhaolin.cn/ *(优质webpack资源)
 LoopBack
 	https://loopback.io
 Deno
