@@ -154,6 +154,7 @@ Vue
 	https://segmentfault.com/a/1190000009721209 (源码解析)
 	https://ustbhuangyi.github.io/vue-analysis/prepare/ (源码*)
 	https://fmfe.github.io/genesis-docs/ (SSR)
+	https://cnodejs.org/topic/5ecb211c67c8a45803da1633 (Vue 微前端)
 Vue-Router
 	https://github.com/funfish/blog/issues/8 (源码)
 	https://juejin.im/post/5af108dc518825672565cf31#heading-5 (源码)
