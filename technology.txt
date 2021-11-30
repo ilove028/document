@@ -17,6 +17,9 @@
 	https://ptabletags-o9iap3bo3.now.sh/ （HTML 元素周期表）
 	https://www.nodejs.red (nodejs 技术栈)
 	https://exploringjs.com/ (JS详解书籍)
+Browser
+	https://blog.csdn.net/rogeryi/article/details/23686609 (浏览器如何工作)
+	https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/ （howbrowserswork）
 Test
     https://github.com/GoogleChrome/puppeteer ()
     supertest
